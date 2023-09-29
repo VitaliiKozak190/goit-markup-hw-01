@@ -1,0 +1,7 @@
+.col {
+  float: left;
+  width: 25%;
+  color: var(--NAVY-BLUE, #181e91);
+  text-align: center;
+  box-sizing: border-box;
+}
