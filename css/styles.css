@@ -1,7 +1,8 @@
 .col {
   float: left;
   width: 25%;
-  color: var(--NAVY-BLUE, #181e91);
-  text-align: center;
-  box-sizing: border-box;
+  color: var(--NAVY-BLUE, #121321);
+}
+.row > .col > img {
+  width: 100%;
 }
